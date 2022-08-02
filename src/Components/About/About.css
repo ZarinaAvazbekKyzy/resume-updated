@@ -1,0 +1,24 @@
+img {
+  width: 20%;
+  margin: 2% auto;
+}
+
+.row1 {
+  display: flex;
+}
+.row2 {
+  display: flex;
+}
+p {
+  font-weight: 700;
+  font-size: 54px;
+  line-height: 59px;
+  color: #000000;
+}
+.about-right {
+  text-align: center;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 40px;
+  color: #666666;
+}
